@@ -2,7 +2,7 @@
 # Everyone is permitted to copy and distribute verbatim copies
 # of this license document, but changing it is not allowed.
 
-# Copyright (C) 2022 Saatvik Nagpal and Abhinav Saklani
+# Copyright (C) 2023 Saatvik Nagpal
 
 # This program is free software: under the terms of the GNU General 
 # Public License as published by the Free Software Foundation, 
